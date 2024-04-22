@@ -1,0 +1,5 @@
+package com.example.DoctorAppointment.controller;
+
+public class CorsPolicy {
+
+}
